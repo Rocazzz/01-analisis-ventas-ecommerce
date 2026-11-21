@@ -1,0 +1,19 @@
+producto_id,nombre,categoria,precio_lista,costo_unitario
+1,Sofá 3 puestos,Sala,2400000,1451000.0
+2,Sofá cama,Sala,1900000,1022000.0
+3,Mesa de centro,Sala,450000,280000.0
+4,Poltrona,Sala,780000,460000.0
+5,Comedor 4 puestos,Comedor,1600000,750000.0
+6,Comedor 6 puestos,Comedor,2300000,1484000.0
+7,Silla comedor,Comedor,210000,126000.0
+8,Cama doble,Alcoba,1350000,820000.0
+9,Mesa de noche,Alcoba,260000,124000.0
+10,Closet 3 puertas,Alcoba,1750000,945000.0
+11,Colchón doble,Alcoba,1100000,577000.0
+12,Escritorio,Oficina,620000,394000.0
+13,Silla ergonómica,Oficina,690000,399000.0
+14,Biblioteca,Oficina,480000,295000.0
+15,Lámpara de pie,Decoración,230000,124000.0
+16,Espejo,Decoración,180000,89000.0
+17,Tapete,Decoración,320000,179000.0
+18,Cojín decorativo,Decoración,55000,25000.0
